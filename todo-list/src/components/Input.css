@@ -22,7 +22,7 @@ input:focus{
 button{
     margin-right: 8px;
     border: none;
-    background-color: rgba(243, 243, 243, 0.562);
+    background-color: rgb(232,234,237);
     border-radius: 10px;
     height: 30px;
     width: 50px;
